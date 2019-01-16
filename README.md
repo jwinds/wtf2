@@ -2,3 +2,4 @@
 
 The goal of wtf2 is to ...
 
+Testing remote connection
